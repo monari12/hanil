@@ -174,10 +174,10 @@
 	color:#707070;
 	text-decoration:none;
 }
-.page_nation .active{
+/* .page_nation .active{
     color:#000;
     font-weight: bold;
-}
+} */
 .page_nation .nnext {
     font-size:20px;
 }
