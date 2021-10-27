@@ -7,6 +7,8 @@ $(function(){
         $('#gnb .depth1 .depth2').stop().slideUp();
         }
     )
+
     //   aos 실행
     AOS.init();
+
 });
