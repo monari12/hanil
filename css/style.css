@@ -92,6 +92,7 @@ body{
     padding:10px 0;
     background: #fff;
     font-size:16px;
+    display:none;
 }
 #gnb .depth2 > li > a{
     display: block;

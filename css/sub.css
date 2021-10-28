@@ -3,7 +3,7 @@
 /* sub-header */
 #sub-header .bgimg{
     width:100%;
-    height:565px;
+    height:400px;
     position:relative;
     padding-top: 116px;
     box-sizing: content-box;
@@ -11,12 +11,12 @@
 }
 #sub-header .bgimg .imgbg{
     width:100%;
-    height: 565px;
+    height: 400px;
     background-image: url(../images/comany.jpg);
 }
 #sub-header .sub-container{
     width: 1200px;
-    height: 565px;
+    height: 400px;
     max-width: 1200px;
     min-width:1000px;
     margin: 0 auto;
@@ -24,7 +24,7 @@
 }
 #sub-header .sub-container h2{
     color:#fff;
-    padding-top: 211px;
+    padding-top: 130px;
     font-size:45px;
     font-weight: 500;
     /* position:relative; */
