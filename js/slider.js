@@ -18,6 +18,7 @@ $(function(){
       // indicator 변경
       $('.slider .indicator a').removeClass('active');
       $('.slider .indicator a').eq(imgNum).addClass('active');
+      
 
     }, 4000);
      

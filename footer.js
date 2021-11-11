@@ -13,9 +13,9 @@ const Footer = `<footer id="main-footer">
            <a href="#">사이트맵</a>
        </div>
        <div class="address">
-        <p>사업장 주소 : 경기도 광주시 도척면 도척로 584 번길 29 </p>
-        <p>Tel : 031-798-7161 ~ 2 </p>
-        <p>Fax : 031-798-7163 </p>
+            <p>사업장 주소 : 경기도 광주시 도척면 도척로 584 번길 29 </p>
+            <p>Tel : 031-798-7161 ~ 2 </p>
+            <p>Fax : 031-798-7163 </p>
        </div>
        <p class="mail">이메일 : hanil2502@naver.com</p>
        <p class="copy">Copyright ⓒ 2008 by HANIL. All rights reserved.</p>
